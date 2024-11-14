@@ -7,6 +7,7 @@ image: assets/images/12.jpg
 ---
 
 If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
+$$\alpha=\alpha-8$$but that is logically incorrect
 
 ```ruby
 # Install Jekyll and Bundler gems through RubyGems
